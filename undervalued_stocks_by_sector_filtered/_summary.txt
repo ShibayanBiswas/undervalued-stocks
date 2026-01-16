@@ -1,0 +1,15 @@
+Exchange Filter Summary (NYSE/NASDAQ)
+================================================================================
+
+Filter Date: 2026-01-11 21:52:15
+Input Folder: undervalued_stocks_by_sector
+Output Folder: undervalued_stocks_by_sector_filtered
+
+Statistics:
+--------------------------------------------------------------------------------
+Files Processed: 12
+Files with Results: 12
+Total Stocks (Before Filter): 986
+Stocks After Filter (NYSE/NASDAQ): 793
+Stocks Removed: 193
+Retention Rate: 80.43%

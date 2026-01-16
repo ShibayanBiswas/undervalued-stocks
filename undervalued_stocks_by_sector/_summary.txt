@@ -1,0 +1,27 @@
+Stock Organization by Sector Summary
+================================================================================
+
+Analysis Date: 2026-01-11 21:32:25
+Total Stocks Processed: 1726
+Stocks with Market Cap Added: 1726
+Stocks after filtering (Market Cap >= 1B, valid rows): 986
+Processing Time: 152.47 seconds
+
+Filtering Criteria:
+  - Removed rows with missing/invalid Symbol
+  - Market Cap >= 1 billion USD
+
+Sector Breakdown:
+--------------------------------------------------------------------------------
+  Basic Materials: 33 stocks
+  Communication Services: 26 stocks
+  Consumer Cyclical: 116 stocks
+  Consumer Defensive: 63 stocks
+  Energy: 60 stocks
+  Financial Services: 282 stocks
+  Healthcare: 88 stocks
+  Industrials: 86 stocks
+  Real Estate: 101 stocks
+  Technology: 125 stocks
+  Unknown: 3 stocks
+  Utilities: 3 stocks
